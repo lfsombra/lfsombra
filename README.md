@@ -11,7 +11,7 @@
 
 ## 🇧🇷 Sobre mim
 
-Olá! Sou **Luiz Felipe**, tenho 23 anos e estou no último semestre do curso de **Análise e Desenvolvimento de Sistemas (ADS)**, com formatura prevista para **meados de 2025**.
+Olá! Sou **Luiz Felipe**, tenho 23 anos e estou no último semestre do curso de **Análise e Desenvolvimento de Sistemas (ADS)**, com formatura prevista para **meados de 2026**.
 
 Apaixonado por tecnologia e em busca da minha **primeira oportunidade profissional** na área de desenvolvimento. Gosto de resolver problemas reais com código limpo e soluções práticas.
 
@@ -70,7 +70,7 @@ Apaixonado por tecnologia e em busca da minha **primeira oportunidade profission
 
 ## About me
 
-Hi! I'm **Luiz Felipe**, 23 years old, currently in my **last semester of a Systems Analysis and Development degree (ADS)**, graduating in **mid-2025**.
+Hi! I'm **Luiz Felipe**, 23 years old, currently in my **last semester of a Systems Analysis and Development degree (ADS)**, graduating in **mid-2026**.
 
 Passionate about technology and looking for my **first professional opportunity** as a developer. I enjoy solving real problems with clean code and practical solutions.
 
