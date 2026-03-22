@@ -54,7 +54,7 @@ Apaixonado por tecnologia e em busca da minha **primeira oportunidade profission
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/luizfelipegbarreto))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizfelipegbarreto)
 
 </div>
 
@@ -102,7 +102,7 @@ Passionate about technology and looking for my **first professional opportunity*
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/luizfelipegbarreto))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizfelipegbarreto)
 
 </div>
 
